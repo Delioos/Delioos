@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Delios !</h1>
 <h3 align="center">A 19yo french developper</h3>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **ASP.NET Core and C#**
 
 - 💬 I know a bit of **java, python, js, php**
 
