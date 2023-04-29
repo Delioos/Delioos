@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **solidity :')**
 
-- 💬 I know a bit of **java, python, js, php**
+- 💬 I know a bit of **java, python, js, php, sql and powerbi**
 
 - 📫 How to reach me **htz_j@protonmail.com**
 
