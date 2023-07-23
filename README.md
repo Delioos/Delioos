@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Delios !</h1>
+<h1 align="center">Hi 👋, I'm Delioos !</h1>
 <h3 align="center">A 19yo french developper</h3>
 
 - 🌱 I’m currently learning **Nextjs & solidity**
