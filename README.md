@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nextjs & solidity**
 
-- 👨🏻‍🎨 My portfolio will be avibalable at [https://delioos.xyz](https://delioos.xyz)
+- 👨🏻‍🎨 My portfolio will be available at [https://delioos.xyz](https://delioos.xyz)
 
 - 🦇🔊 To read about crypto & cyber [https://cccrusaders.cc](https://cccrusaders.cc)
 
