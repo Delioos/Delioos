@@ -9,7 +9,7 @@
 
 - 💬 I know a bit of **java, python, js, php**
 
-- 📫 How to reach me **htz_j@protonmail.com**
+- 📫 How to reach me **contact@delioos.xyz**
 
 
 <h2> My skills </h2>
