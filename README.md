@@ -9,7 +9,9 @@
 
 - 💬 I know a bit of **java, python, js, php**
 
-- 📫 How to reach me **contact@delioos.xyz**
+- 🧑‍💻 checkout my LeetCode [here](https://leetcode.com/Delioos/)
+
+- 📫 How to reach me **htz_j@protonmail.com**
 
 
 <h2> My skills </h2>
