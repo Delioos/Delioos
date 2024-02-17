@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Delioos !</h1>
 <h3 align="center">A 20yo french developper</h3>
 
-- 🌱 I’m currently learning **Nextjs & solidity**
+- 🌱 I’m currently learning **Design & Assembly** as hobbies
 
 - 👨🏻‍🎨 My portfolio will be available at [https://delioos.xyz](https://delioos.xyz)
 
 - 🦇🔊 To read about crypto & cyber [https://cccrusaders.cc](https://cccrusaders.cc)
 
-- 💬 I know a bit of **java, python, js, php**
+- 💬 I know a bit of **java, python, js, php, typescript, solidity**
 
 - 🧑‍💻 checkout my LeetCode [here](https://leetcode.com/Delioos/)
 
