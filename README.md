@@ -13,8 +13,15 @@
 
 - 📫 How to reach me **htz_j@protonmail.com**
 
+<h2> Some personnal stats </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delioos&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin:  0  10px;"/>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=delioos&show_icons=true&locale=en" alt="GitHub Stats" style="margin:  0  10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delioos&" alt="GitHub Streak" style="margin:  0  10px;"/>
+</div>
 <h2> My skills </h2>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -57,7 +64,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=delioos&show_icons=true&locale=en" alt="delioos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=delioos&" alt="delioos" /></p>
 
