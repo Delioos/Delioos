@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Design & Assembly** as hobbies
 
-- 👨🏻‍🎨 My portfolio will be available at [https://delioos.xyz](https://delioos.xyz)
-
 - 🦇🔊 To read about crypto & cyber [https://cccrusaders.cc](https://cccrusaders.cc)
 
 - 💬 I know a bit of **java, python, js, php, typescript, solidity**
