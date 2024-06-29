@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Delioos !</h1>
-<h3 align="center">A 20yo french developper</h3>
+<h3 align="center">A 21yo french developper</h3>
 
-- 🌱 I’m currently learning **Design & Assembly** as hobbies
+- 🌱 I’m currently learning **Rust & the EVM**
 
 - 🦇🔊 To read about crypto & cyber [https://cccrusaders.cc](https://cccrusaders.cc)
 
-- 💬 I know a bit of **java, python, js, php, typescript, solidity**
+- 💬 I know a bit of **java, python, js, typescript**
 
 - 🧑‍💻 checkout my LeetCode [here](https://leetcode.com/Delioos/)
 
