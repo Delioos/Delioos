@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Low level programming and distributed systems**
 
-- 💬 I know a bit of **Solidity, TypeScript, python and java**
+- 💬 I know a bit of **Solidity, Rust, TypeScript, python and java**
 
 - 🧙‍♂️ checkout my Node Guardian [here](https://nodeguardians.io/character/delioos)
 
