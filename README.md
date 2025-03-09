@@ -70,4 +70,7 @@
   <a href="https://zapier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" alt="n8n" width="40" height="40"/> </a>
 </p>
-![Dino GIF](dino.gif)
+
+
+
+<img src="dino.gif" alt="dino gif" />
