@@ -66,7 +66,7 @@
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="shopify" width="40" height="40"/> </a>
+  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreelogopng.com%2Fimages%2Fall_img%2F1655873284shopify-logo-transparent-background.png&f=1&nofb=1&ipt=069f82f4eb908170d7069170ba7a5b58cecdcf7235a71b819b23fd59398f05a3&ipo=images" alt="shopify" width="40" height="40"/> </a>
   <a href="https://zapier.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" alt="n8n" width="40" height="40"/> </a>
 </p>
