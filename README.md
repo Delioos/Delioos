@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🦀, I'm Delioos !</h1>
-<h3 align="center">A 21yo french developer</h3>
+<h3 align="center">A 22yo french developer</h3>
 
 - 🌱 I’m currently learning **Low level programming and distributed systems**
 - 💬 I know a bit of **Solidity, Rust, TypeScript, Python, and Java**
